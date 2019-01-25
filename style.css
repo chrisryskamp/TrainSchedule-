@@ -1,0 +1,41 @@
+body{
+  background:blanchedalmond;
+}
+.jumbotron{
+  background-color:white;
+  color:black;
+  border:5px grey solid;
+  font: 2em Arial,sans-serif;
+}
+.ride{
+  font-size:40px;
+  color: lightskyblue;
+}
+
+.panel-body{
+  border:5px grey solid;
+}
+.current ,.add{
+  background-color: peachpuff;
+  color:black;
+  font-size:20px;
+}
+#Table{
+  background-color: white;
+  color:black;
+  font-size:20px;
+  font: bold;
+}
+#Inputs{
+  color:black;
+  font-size:18px;
+  background-color: white;
+}
+.form-group{
+  color: black;
+  font-size:20px;
+}
+.btn{
+  background-color: darkred;
+  font-size:20px;
+}
